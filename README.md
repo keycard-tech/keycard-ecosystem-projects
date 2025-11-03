@@ -67,21 +67,21 @@ Keycard-CLI is a command line tool to manage Keycards.
 - [react-native-status-keycard](https://github.com/keycard-tech/react-native-status-keycard) ![stars](https://img.shields.io/github/stars/keycard-tech/react-native-status-keycard.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/keycard-tech/react-native-status-keycard.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/keycard-tech/react-native-status-keycard.svg)  
 React Native library to interact with Keycard using [Java SDK](https://github.com/status-im/status-keycard-java)
 
-- [kprojs](https://github.com/choppu/kprojs) ![stars](https://img.shields.io/github/stars/choppu/kprojs.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/choppu/kprojs.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/choppu/kprojs.svg)  
+- [shelljs](https://github.com/keycard-tech/shelljs) ![stars](https://img.shields.io/github/stars/keycard-tech/shelljs.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/keycard-tech/shelljs.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/keycard-tech/shelljs.svg)  
 Javascript API to communicate with Keycard Shell through USB with websites and through nodejs-based native applications.
 
-- [apdu](https://github.com/nxm-rs/apdu) ![stars](https://img.shields.io/github/stars/nxm-rs/apdu.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/nxm-rs/apdu.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/nxm-rs/apdu.svg)  
-Rust toolkit for smartcards. nexum-apdu is a comprehensive toolkit for smart card communication in Rust using the APDU (Application Protocol Data Unit) protocol. Whether you're building a payment terminal, identity verification system, or HSM integration, nexum-apdu provides the foundation for secure card communications. Can be used for other smartcards than Keycard.
-
-- [keycard](https://github.com/nxm-rs/keycard) ![stars](https://img.shields.io/github/stars/nxm-rs/keycard.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/nxm-rs/keycard.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/nxm-rs/keycard.svg)   
+- [nexum-keycard](https://github.com/nxm-rs/nexum/tree/main/crates/keycard) ![stars](https://img.shields.io/github/stars/nxm-rs/nexum.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/nxm-rs/nexum.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/nxm-rs/nexum.svg)   
 Rust toolkit (SDK and CLI) for interacting with Keycards. Also includes an `alloy` signer for making use of Keycard in `alloy'
+
+- [keycard-nim](https://github.com/mmlado/keycard-nim) ![stars](https://img.shields.io/github/stars/mmlado/keycard-nim.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/mmlado/keycard-nim.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/mmlado/keycard-nim.svg)    
+Nim SDK to interact with the Status Keycard
 
 ## Tools 
 
 - [keycard-certify](https://github.com/keycard-tech/keycard-certify) ![stars](https://img.shields.io/github/stars/keycard-tech/keycard-certify.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/keycard-tech/keycard-certify.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/keycard-tech/keycard-certify.svg)  
 A tool to create certificates for Keycard manufacturing.
 
-- [kpro-updater](https://github.com/choppu/kpro-updater) ![stars](https://img.shields.io/github/stars/choppu/kpro-updater.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/choppu/kpro-updater.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/choppu/kpro-updater.svg)  
+- [kshell-updater](https://github.com/keycard-tech/kshell-updater) ![stars](https://img.shields.io/github/stars/keycard-tech/kshell-updater.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/choppu/kshell-updater.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/keycard-tech/kshell-updater.svg)  
 A desktop tool to upgrade Keycard Shell. Not complete yet because it can only download files from a server. Will add selecting local files also. Useful because only chrome-based browser support webhid, so firefox user can use this instead to upgrade keycard Shell. 
 
 - [keycard-certify](https://github.com/keycard-tech/keycard-certify) ![stars](https://img.shields.io/github/stars/keycard-tech/keycard-certify.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/keycard-tech/keycard-certify.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/keycard-tech/keycard-certify.svg)  
