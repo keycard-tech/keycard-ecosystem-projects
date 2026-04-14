@@ -64,8 +64,8 @@ Python SDK for Keycard.
 - [keycard-cli](https://github.com/keycard-tech/keycard-cli) ![stars](https://img.shields.io/github/stars/keycard-tech/keycard-cli.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/keycard-tech/keycard-cli.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/keycard-tech/keycard-cli.svg)  
 Keycard-CLI is a command line tool to manage Keycards.
 
-- [react-native-status-keycard](https://github.com/keycard-tech/react-native-status-keycard) ![stars](https://img.shields.io/github/stars/keycard-tech/react-native-status-keycard.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/keycard-tech/react-native-status-keycard.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/keycard-tech/react-native-status-keycard.svg)  
-React Native library to interact with Keycard using [Java SDK](https://github.com/status-im/status-keycard-java)
+- [react-native-keycard](https://github.com/choppu/react-native-keycard) ![stars](https://img.shields.io/github/stars/choppu/react-native-keycard.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/choppu/react-native-keycard.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/choppu/react-native-keycard.svg)  
+React Native library to interact with Keycard  
 
 - [shelljs](https://github.com/keycard-tech/shelljs) ![stars](https://img.shields.io/github/stars/keycard-tech/shelljs.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/keycard-tech/shelljs.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/keycard-tech/shelljs.svg)  
 Javascript API to communicate with Keycard Shell through USB with websites and through nodejs-based native applications.
