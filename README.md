@@ -43,6 +43,9 @@ Keycard Ticket is a prototype dApp which can be used as a ticketing system for e
 - [keycard-manager-help](https://github.com/rkreutz/keycard-manager-help/) ![stars](https://img.shields.io/github/stars/rkreutz/keycard-manager-help.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/rkreutz/keycard-manager-help.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/rkreutz/keycard-manager-help.svg)  
 Closed source tool to manage your keycard, load any applets (cap file), FIDO2 applet, and encrypt decrypt files. On apps store: https://apps.apple.com/iq/app/keycard-manager/id1610328465
 
+- [GapSign](https://github.com/mmlado/GapSign) ![stars](https://img.shields.io/github/stars/mmlado/GapSign.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/mmlado/GapSign.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/mmlado/GapSign.svg)  
+An air-gap Android wallet that uses Status Keycard over NFC to sign Ethereum transactions without the private key ever touching an internet-connected device.
+
 
 ## SDKs and CLIs
 
@@ -95,3 +98,6 @@ This repository contains SmartContracts, dApps and tools to enable using the Key
 
 - [keycard-ledger](https://github.com/keycard-tech/keycard-ledger) ![stars](https://img.shields.io/github/stars/keycard-tech/keycard-ledger.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/keycard-tech/keycard-ledger.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/keycard-tech/keycard-ledger.svg)  
 Tentative Ledger application to run a emulated Keycard hardware wallet on Ledger, uses Keycard API over Ledger.
+
+- [qrkit](https://github.com/mmlado/qrkit) ![stars](https://img.shields.io/github/stars/mmlado/qrkit.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/mmlado/qrkit.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/mmlado/qrkit.svg)  
+Reusable library for QR-based airgapped wallet connection and signing flows. Built around ERC-4527 / UR / CBOR — same protocol used by Keycard Shell.
