@@ -52,6 +52,9 @@ An air-gap Android wallet that uses Status Keycard over NFC to sign Ethereum tra
 - [keycard-go](https://github.com/keycard-tech/keycard-go) ![stars](https://img.shields.io/github/stars/keycard-tech/keycard-go.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/keycard-tech/keycard-go.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/keycard-tech/keycard-go.svg)  
 Go SDK for Keycard.
 
+- [keycard-rs](https://github.com/keycard-tech/keycard-rs) ![stars](https://img.shields.io/github/stars/keycard-tech/keycard-rs.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/keycard-tech/keycard-rs.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/keycard-tech/keycard-rs.svg)  
+Rust SDK for Keycard.
+
 - [status-keycard-java](https://github.com/keycard-tech/status-keycard-java) ![stars](https://img.shields.io/github/stars/keycard-tech/status-keycard-java.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/keycard-tech/status-keycard-java.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/keycard-tech/status-keycard-java.svg)  
 This SDK simplifies integration with Keycard in Android and Desktop applications. In this SDK you find both the classes needed for generic communication with SmartCards as well as classes specifically addressing Keycard.
 
