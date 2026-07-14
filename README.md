@@ -76,9 +76,6 @@ React Native library to interact with Keycard
 - [shelljs](https://github.com/keycard-tech/shelljs) ![stars](https://img.shields.io/github/stars/keycard-tech/shelljs.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/keycard-tech/shelljs.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/keycard-tech/shelljs.svg)  
 Javascript API to communicate with Keycard Shell through USB with websites and through nodejs-based native applications.
 
-- [nexum-keycard](https://github.com/nxm-rs/nexum/tree/main/crates/keycard) ![stars](https://img.shields.io/github/stars/nxm-rs/nexum.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/nxm-rs/nexum.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/nxm-rs/nexum.svg)   
-Rust toolkit (SDK and CLI) for interacting with Keycards. Also includes an `alloy` signer for making use of Keycard in `alloy'
-
 - [keycard-nim](https://github.com/mmlado/keycard-nim) ![stars](https://img.shields.io/github/stars/mmlado/keycard-nim.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/mmlado/keycard-nim.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/mmlado/keycard-nim.svg)    
 Nim SDK to interact with the Status Keycard
 
