@@ -43,7 +43,7 @@ Keycard Ticket is a prototype dApp which can be used as a ticketing system for e
 - [keycard-manager-help](https://github.com/rkreutz/keycard-manager-help/) ![stars](https://img.shields.io/github/stars/rkreutz/keycard-manager-help.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/rkreutz/keycard-manager-help.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/rkreutz/keycard-manager-help.svg)  
 Closed source tool to manage your keycard, load any applets (cap file), FIDO2 applet, and encrypt decrypt files. On apps store: https://apps.apple.com/iq/app/keycard-manager/id1610328465
 
-- [GapSign](https://github.com/mmlado/GapSign) ![stars](https://img.shields.io/github/stars/mmlado/GapSign.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/mmlado/GapSign.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/mmlado/GapSign.svg)  
+- [Keycard Pal](https://github.com/mmlado/keycard-pal) ![stars](https://img.shields.io/github/stars/mmlado/keycard-pal.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/mmlado/keycard-pal.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/mmlado/keycard-pal.svg)  
 An air-gap Android wallet that uses Status Keycard over NFC to sign Ethereum transactions without the private key ever touching an internet-connected device.
 
 
