@@ -13,6 +13,9 @@ Keycard is an implementation of a BIP-32 HD wallet running on Javacard 3.0.4+.
 - [keycard-shell](https://github.com/keycard-tech/keycard-shell) ![stars](https://img.shields.io/github/stars/keycard-tech/keycard-shell.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/keycard-tech/keycard-shell.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/keycard-tech/keycard-shell.svg)  
 Keycard Shell transforms any Keycard into a standalone modular hardware wallet with built-in keypad, display, camera, and USB. Fully open-source and EAL6+ certified, it uses ERC-4527 and UR2.0 QR codes for secure signing. Can be used fully airgapped.
 
+- [seedsigner](https://github.com/3rdIteration/seedsigner) ![stars](https://img.shields.io/github/stars/3rdIteration/seedsigner.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/3rdIteration/seedsigner.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/3rdIteration/seedsigner.svg)  
+Seedsigner fork software for SeedSigner with smartcard support. This integrates Keycard as well as Satochip Seedkeeper.
+
 ## Software wallets 
 
 - [status-desktop](https://github.com/status-im/status-desktop) ![stars](https://img.shields.io/github/stars/status-im/status-desktop.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/status-im/status-desktop.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/status-im/status-desktop.svg)  
