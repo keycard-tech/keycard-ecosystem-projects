@@ -102,5 +102,8 @@ This repository contains SmartContracts, dApps and tools to enable using the Key
 - [keycard-ledger](https://github.com/keycard-tech/keycard-ledger) ![stars](https://img.shields.io/github/stars/keycard-tech/keycard-ledger.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/keycard-tech/keycard-ledger.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/keycard-tech/keycard-ledger.svg)  
 Tentative Ledger application to run a emulated Keycard hardware wallet on Ledger, uses Keycard API over Ledger.
 
+- [keycard-shell-mcp](https://github.com/guylouis/keycard-shell-mcp) ![stars](https://img.shields.io/github/stars/guylouis/keycard-shell-mcp.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/guylouis/keycard-shell-mcp.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/guylouis/keycard-shell-mcp.svg)  
+An MCP server that lets an AI agent use a Keycard Shell as its signer, over USB-HID. The agent proposes a transaction, the Shell decodes and displays it, and nothing is signed until the holder enters their PIN and presses OK. Works with any agent that can run an MCP server: Claude Code, Cursor, Codex, Cline and others.
+
 - [qrkit](https://github.com/mmlado/qrkit) ![stars](https://img.shields.io/github/stars/mmlado/qrkit.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/mmlado/qrkit.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/mmlado/qrkit.svg)  
 Reusable library for QR-based airgapped wallet connection and signing flows. Built around ERC-4527 / UR / CBOR — same protocol used by Keycard Shell.
