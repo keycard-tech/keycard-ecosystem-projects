@@ -49,6 +49,8 @@ Closed source tool to manage your keycard, load any applets (cap file), FIDO2 ap
 - [Keycard Pal](https://github.com/mmlado/keycard-pal) ![stars](https://img.shields.io/github/stars/mmlado/keycard-pal.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/mmlado/keycard-pal.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/mmlado/keycard-pal.svg)  
 An air-gap Android wallet that uses Status Keycard over NFC to sign Ethereum transactions without the private key ever touching an internet-connected device.
 
+- [shell_dapp_prototype](https://github.com/mmlado/shell_dapp_prototype) ![stars](https://img.shields.io/github/stars/mmlado/shell_dapp_prototype.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/mmlado/shell_dapp_prototype.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/mmlado/shell_dapp_prototype.svg)  
+Web dApp prototype that works with Keycard Shell fully airgapped, over ERC-4527 QR codes. Scans the Shell export QR, shows addresses across derivation paths, and signs Ethereum and Bitcoin messages with in-browser verification. [Live demo](https://shelldappprototype.vercel.app/). Solution to Logos Lambda Prize [LP-0010](https://github.com/logos-co/lambda-prize/blob/master/solutions/LP-0010.md).
 
 ## SDKs and CLIs
 
