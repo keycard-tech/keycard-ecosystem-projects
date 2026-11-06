@@ -50,7 +50,7 @@ Keycard Ticket is a prototype dApp which can be used as a ticketing system for e
 Closed source tool to manage your keycard, load any applets (cap file), FIDO2 applet, and encrypt decrypt files. On apps store: https://apps.apple.com/iq/app/keycard-manager/id1610328465
 
 - [Keycard Pal](https://github.com/mmlado/keycard-pal) ![stars](https://img.shields.io/github/stars/mmlado/keycard-pal.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/mmlado/keycard-pal.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/mmlado/keycard-pal.svg)  
-An air-gap Android wallet that uses Status Keycard over NFC to sign Ethereum transactions without the private key ever touching an internet-connected device.
+Air-gapped companion app for Keycard on Android and iOS. The card signs Ethereum and Bitcoin transactions over NFC, and Pal passes them to your watch-only wallet by animated QR codes. Pal is not a wallet itself, and the key never leaves the card.
 
 
 ## SDKs and CLIs
