@@ -33,6 +33,9 @@ Keycard Connect's main function is to enable using the Keycard with dApps outsid
 
 ## Other applications 
 
+- [gappgp-thunderbird](https://github.com/0xterricola/gappgp-thunderbird) ![stars](https://img.shields.io/github/stars/0xterricola/gappgp-thunderbird.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/0xterricola/gappgp-thunderbird.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/0xterricola/gappgp-thunderbird.svg)  
+Experimental Thunderbird extension that signs email with GapPGP: OpenPGP signatures made on Keycard Shell and exchanged by QR.
+
 - [keycard-exit](https://github.com/keycard-tech/keycard-exit) ![stars](https://img.shields.io/github/stars/keycard-tech/keycard-exit.svg?style=social) ![lastcommit](https://img.shields.io/github/last-commit/keycard-tech/keycard-exit.svg) ![numcontributors](https://img.shields.io/github/contributors-anon/keycard-tech/keycard-exit.svg)  
 Mobile application on Android and iOS to store operators on Keycard Multipass and login the operators dashboard when accessed through a web browser.
 
